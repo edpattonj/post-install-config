@@ -9,4 +9,9 @@ configuration and management.
 
 Successfully added and set up a new 'SysAdmins' Department
 
+![Image](https://github.com/user-attachments/assets/6caea7fa-0065-4063-88dd-8fb61d404f5a)
+
+Created and defined help topics to streamline issue categorization and improve ticket
+management effeciency.
+
 
