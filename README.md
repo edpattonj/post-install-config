@@ -14,4 +14,9 @@ Successfully added and set up a new 'SysAdmins' Department
 Created and defined help topics to streamline issue categorization and improve ticket
 management effeciency.
 
+![Image](https://github.com/user-attachments/assets/f94ace02-17a6-4cc0-9c4c-ca4b5cb68ded)
+
+Created and managed user roles and permissions, ensuring proper access control and 
+team structure within the helpdesk system.
+
 
